@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ccb-library)(type Legacy)(uri ${KIPRJMOD}/ccb-library.lib)(options "")(descr ""))
+)
