@@ -27,7 +27,7 @@ AR Path="/5DCD0771" Ref="U?"  Part="1"
 AR Path="/5DCAB605/5DCD0771" Ref="U5"  Part="1" 
 F 0 "U5" H 6794 3796 50  0000 L CNN
 F 1 "LSM6DS3" H 6794 3705 50  0000 L CNN
-F 2 "Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y" H 5750 3050 50  0001 L CNN
+F 2 "ccp_footprints:LGA-14L_2.5x3mm__LSM6DS3" H 5750 3050 50  0001 L CNN
 F 3 "www.st.com/resource/en/datasheet/lsm6ds3.pdf" H 6250 3100 50  0001 C CNN
 	1    6150 3750
 	1    0    0    -1  
