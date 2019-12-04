@@ -1,4 +1,6 @@
 
+# SECOND RELEASE COMING SOON
+Open an issue to request features!
 
 I am developing a circuit board for non-organic creatures.
 
